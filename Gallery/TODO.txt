@@ -1,0 +1,38 @@
+TODO:
+
+Flat directory support
+ - Add directory
+ - Delete directory
+ - Get directories
+
+Nested directory support
+ - Add directories by root
+ - Delete directories by root
+ - Get directories by root
+
+Image support
+ - Add image to directory
+ - Delete image
+ - Get images in directory
+ - Get images in directory (nested)
+ - Search images by name
+ - Search images by created date
+
+Tags support
+ - Update/delete tags for image
+ - Search images by tags
+
+UI
+ - Display directories
+ - Display images
+ - Display tags for image
+ - Add image
+ - Delete image
+ - Tag image
+ - Search images by name
+ - Search images by created date
+ - Search images by tags
+
+ Web Download
+ - Add image by URL
+ - UI - add image by URL
