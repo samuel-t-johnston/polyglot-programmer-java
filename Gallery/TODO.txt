@@ -36,3 +36,7 @@ UI
  Web Download
  - Add image by URL
  - UI - add image by URL
+
+ Deploy
+  - Optional settings file
+  - Gradle deploy to self-executing jar
